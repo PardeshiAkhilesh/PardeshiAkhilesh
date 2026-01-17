@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PardeshiAkhilesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=algolia&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats-suyash-bhavalkars-projects.vercel.app/api?username=PardeshiAkhilesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=algolia&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PardeshiAkhilesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&custom_title=My%20Programming%20Language" height="250" alt="languages graph"  />
 </div>
 
